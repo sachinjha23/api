@@ -4,14 +4,14 @@
         "name":"Lamborghini Avendator",
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "rating":"⭐ 5/5",
-        "image":"https://unsplash.com/photos/I70_S2OkWM4"
+        "image":"https://source.unsplash.com/_DzW3MT-iIY"
     },
     {
         "id":2,
         "name":"Ferrari",
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         "rating":"⭐ 5/5",
-        "image":"https://unsplash.com/photos/I70_S2OkWM4"
+        "image":"https://unsplash.com/I70_S2OkWM4"
     },
     {
         "id":3,
